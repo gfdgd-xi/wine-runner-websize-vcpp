@@ -11,5 +11,5 @@
     ["2015、2017、2019 和 2022 X86", "https://aka.ms/vs/17/release/vc_redist.x86.exe", "vc_redist15.x86.exe"],
     ["2015、2017、2019 和 2022 X64", "https://aka.ms/vs/17/release/vc_redist.x64.exe", "vc_redist15.x64.exe"],
     ["2015、2017、2019 和 2022 ARM64", "https://aka.ms/vs/17/release/vc_redist.arm64.exe", "vc_redist15.arm64.exe"],
-    ["VC6 运行库", "https://code.gitlink.org.cn/gfdgd_xi/wine-runner-list/raw/branch/master/vscpp/VC6RedistSetup_deu.exe", "VC6RedistSetup_deu.exe"]
+    ["VC6 运行库", "http://vcpp.wine-runner.gfdgdxi.top/VC6RedistSetup_deu.exe", "VC6RedistSetup_deu.exe"]
 ]
